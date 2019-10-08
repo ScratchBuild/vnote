@@ -105,7 +105,7 @@
     <message>
         <location filename="../vwebview.cpp" line="234"/>
         <source>&amp;Forward</source>
-        <translation type="unfinished">勧む(&amp;F)</translation>
+        <translation type="unfinished">進む(&amp;F)</translation>
     </message>
     <message>
         <location filename="../vwebview.cpp" line="235"/>
@@ -138,7 +138,7 @@
     <message>
         <location filename="../vattachmentlist.cpp" line="45"/>
         <source>Are you sure to clear attachments of note &lt;span style=&quot;%1&quot;&gt;%2&lt;/span&gt;?</source>
-        <translation type="unfinished">ほんとうにノート&lt;span style=&quot;%1&quot;&gt;%2&lt;/span&gt;の添付を削除してよいですか？</translation>
+        <translation type="unfinished">本当にノート&lt;span style=&quot;%1&quot;&gt;%2&lt;/span&gt;の添付を削除してよいですか？</translation>
     </message>
     <message>
         <location filename="../vattachmentlist.cpp" line="49"/>
@@ -250,7 +250,7 @@
     <message>
         <location filename="../vattachmentlist.cpp" line="337"/>
         <source>Are you sure to delete these attachments of note &lt;span style=&quot;%1&quot;&gt;%2&lt;/span&gt;?</source>
-        <translation type="unfinished">ほんとうにノート&lt;span style=&quot;%1&quot;&gt;%2&lt;/span&gt;のこれらの添付を削除してよいですか？</translation>
+        <translation type="unfinished">本当にノート&lt;span style=&quot;%1&quot;&gt;%2&lt;/span&gt;のこれらの添付を削除してよいですか？</translation>
     </message>
     <message>
         <location filename="../vattachmentlist.cpp" line="341"/>
@@ -277,7 +277,7 @@
     <message>
         <location filename="../vattachmentlist.cpp" line="388"/>
         <source>Sort attachments of note &lt;span style=&quot;%1&quot;&gt;%2&lt;/span&gt; in the configuration file.</source>
-        <translation type="unfinished">構成ファイル内のノート&lt;span style=&quot;%1&quot;&gt;%2&lt;/span&gt;の添付ファイルをソートします。</translation>
+        <translation type="unfinished">構成ファイル内のノート&lt;span style=&quot;%1&quot;&gt;%2&lt;/span&gt;の添付ファイルを整列します。</translation>
     </message>
     <message>
         <location filename="../vattachmentlist.cpp" line="396"/>
@@ -287,7 +287,7 @@
     <message>
         <location filename="../vattachmentlist.cpp" line="417"/>
         <source>Fail to sort attachments of note &lt;span style=&quot;%1&quot;&gt;%2&lt;/span&gt;.</source>
-        <translation type="unfinished">ノート&lt;span style=&quot;%1&quot;&gt;%2&lt;/span&gt;の添付のソートに失敗しました。</translation>
+        <translation type="unfinished">ノート&lt;span style=&quot;%1&quot;&gt;%2&lt;/span&gt;の添付の整列に失敗しました。</translation>
     </message>
     <message>
         <location filename="../vattachmentlist.cpp" line="464"/>
@@ -314,7 +314,7 @@
         <location filename="../vattachmentlist.cpp" line="674"/>
         <location filename="../vattachmentlist.cpp" line="692"/>
         <source>Attachment Information</source>
-        <translation type="unfinished">添付ファイル情報</translation>
+        <translation type="unfinished">添付ファイルの情報</translation>
     </message>
     <message>
         <location filename="../vattachmentlist.cpp" line="675"/>
@@ -390,17 +390,17 @@
     <message>
         <location filename="../vcart.cpp" line="122"/>
         <source>Sort items in Cart</source>
-        <translation type="unfinished">カートのアイテムをソート</translation>
+        <translation type="unfinished">カートのアイテムを整列</translation>
     </message>
     <message>
         <location filename="../vcart.cpp" line="241"/>
         <source>Sort Cart</source>
-        <translation type="unfinished">カートのソート</translation>
+        <translation type="unfinished">カートの整列</translation>
     </message>
     <message>
         <location filename="../vcart.cpp" line="242"/>
         <source>Sort items in Cart.</source>
-        <translation type="unfinished">カートのアイテムをソートする。</translation>
+        <translation type="unfinished">カートのアイテムを整列する。</translation>
     </message>
     <message>
         <location filename="../vcart.cpp" line="247"/>
@@ -469,7 +469,7 @@
     <message>
         <location filename="../dialog/vdeletenotebookdialog.cpp" line="17"/>
         <source>Are you sure to delete notebook &lt;span style=&quot;%1&quot;&gt;%2&lt;/span&gt;?</source>
-        <translation type="unfinished">ほんとうにノートブック &lt;span style=&quot;%1&quot;&gt;%2&lt;/span&gt;を削除してよいですか?</translation>
+        <translation type="unfinished">本当にノートブック &lt;span style=&quot;%1&quot;&gt;%2&lt;/span&gt;を削除してよいですか?</translation>
     </message>
     <message>
         <location filename="../dialog/vdeletenotebookdialog.cpp" line="22"/>
@@ -831,7 +831,7 @@
     <message>
         <location filename="../vdirectorytree.cpp" line="633"/>
         <source>Folder Information</source>
-        <translation type="unfinished">フォルダ情報</translation>
+        <translation type="unfinished">フォルダの情報</translation>
     </message>
     <message>
         <location filename="../vdirectorytree.cpp" line="647"/>
@@ -916,7 +916,7 @@
     <message>
         <location filename="../vdirectorytree.cpp" line="1180"/>
         <source>Sort folders in %1 &lt;span style=&quot;%2&quot;&gt;%3&lt;/span&gt; in the configuration file.</source>
-        <translation type="unfinished">構成ファイル内の%1&lt;span style=&quot;%2&quot;&gt;%3&lt;/span&gt;のフォルダをソートします。</translation>
+        <translation type="unfinished">構成ファイル内の%1&lt;span style=&quot;%2&quot;&gt;%3&lt;/span&gt;のフォルダを整列します。</translation>
     </message>
     <message>
         <location filename="../vdirectorytree.cpp" line="1182"/>
@@ -1282,7 +1282,7 @@
     <message>
         <location filename="../veditwindow.cpp" line="479"/>
         <source>Remove Split</source>
-        <translation type="unfinished">分割終了</translation>
+        <translation type="unfinished">分割を削除</translation>
     </message>
     <message>
         <location filename="../veditwindow.cpp" line="481"/>
@@ -1292,7 +1292,7 @@
     <message>
         <location filename="../veditwindow.cpp" line="513"/>
         <source>&amp;Recycle Bin</source>
-        <translation type="unfinished">ごみ箱(&amp;R)</translation>
+        <translation type="unfinished">ゴミ箱(&amp;R)</translation>
     </message>
     <message>
         <location filename="../veditwindow.cpp" line="515"/>
@@ -1362,7 +1362,7 @@
     <message>
         <location filename="../veditwindow.cpp" line="615"/>
         <source>Quick access: %1</source>
-        <translation type="unfinished">クイックアクセス:%1</translation>
+        <translation type="unfinished">クイックアクセス: %1</translation>
     </message>
     <message>
         <location filename="../veditwindow.cpp" line="619"/>
@@ -1771,7 +1771,7 @@ If absolute path is used, VNote will not manage those images.(empty to use globa
         <location filename="../dialog/vexportdialog.cpp" line="134"/>
         <location filename="../dialog/vexportdialog.cpp" line="226"/>
         <source>Export</source>
-        <translation type="unfinished">エキスポート</translation>
+        <translation type="unfinished">エクスポート</translation>
     </message>
     <message>
         <location filename="../dialog/vexportdialog.cpp" line="135"/>
@@ -2269,12 +2269,12 @@ If absolute path is used, VNote will not manage those images.(empty to use globa
     <message>
         <location filename="../dialog/vexportdialog.cpp" line="1309"/>
         <source>Fail to export %1 notes in one PDF.</source>
-        <translation type="unfinished">%1 個のノートを一つのPDFへエキスポートするのに失敗しました。</translation>
+        <translation type="unfinished">%1 個のノートを一つのPDFへエクスポートするのに失敗しました。</translation>
     </message>
     <message>
         <location filename="../dialog/vexportdialog.cpp" line="1345"/>
         <source>Fail to export %1 notes in one.</source>
-        <translation type="unfinished">%1 個のノートを一つにエキスポートするのに失敗しました。</translation>
+        <translation type="unfinished">%1 個のノートを一つにエクスポートするのに失敗しました。</translation>
     </message>
     <message>
         <location filename="../dialog/vexportdialog.cpp" line="1355"/>
@@ -3233,7 +3233,7 @@ Modified Time: %3</source>
     <message>
         <location filename="../vhelpue.cpp" line="73"/>
         <source>Ctrl+S: Sort items</source>
-        <translation type="unfinished">Ctrl+S: 項目のソート</translation>
+        <translation type="unfinished">Ctrl+S: 項目の整列</translation>
     </message>
     <message>
         <location filename="../vhelpue.cpp" line="74"/>
@@ -3733,7 +3733,7 @@ Modified Time: %3</source>
     <message>
         <location filename="../vmainwindow.cpp" line="232"/>
         <source>Export</source>
-        <translation type="unfinished">エキスポート</translation>
+        <translation type="unfinished">エクスポート</translation>
     </message>
     <message>
         <location filename="../vmainwindow.cpp" line="236"/>
@@ -4263,7 +4263,7 @@ Modified Time: %3</source>
     <message>
         <location filename="../vmainwindow.cpp" line="1054"/>
         <source>E&amp;xport</source>
-        <translation type="unfinished">エキスポート(&amp;X)</translation>
+        <translation type="unfinished">エクスポート(&amp;X)</translation>
     </message>
     <message>
         <location filename="../vmainwindow.cpp" line="1055"/>
@@ -6439,7 +6439,7 @@ those images, so you need to clean up unused images manually.</source>
     <message>
         <location filename="../dialog/vnotebookinfodialog.cpp" line="73"/>
         <source>Recycle bin folder:</source>
-        <translation type="unfinished">ごみ箱フォルダ:</translation>
+        <translation type="unfinished">ゴミ箱フォルダ:</translation>
     </message>
     <message>
         <location filename="../dialog/vnotebookinfodialog.cpp" line="74"/>
@@ -6556,27 +6556,27 @@ those images, so you need to clean up unused images manually.</source>
     <message>
         <location filename="../vnotebookselector.cpp" line="435"/>
         <source>&amp;Recycle Bin</source>
-        <translation type="unfinished">ごみ箱(&amp;R)</translation>
+        <translation type="unfinished">ゴミ箱(&amp;R)</translation>
     </message>
     <message>
         <location filename="../vnotebookselector.cpp" line="437"/>
         <source>Open the recycle bin of this notebook</source>
-        <translation type="unfinished">このノートブックのごみ箱を開きます</translation>
+        <translation type="unfinished">このノートブックのゴミ箱を開きます</translation>
     </message>
     <message>
         <location filename="../vnotebookselector.cpp" line="454"/>
         <source>&amp;Empty Recycle Bin</source>
-        <translation type="unfinished">ごみ箱を空にする(&amp;E)</translation>
+        <translation type="unfinished">ゴミ箱を空にする(&amp;E)</translation>
     </message>
     <message>
         <location filename="../vnotebookselector.cpp" line="456"/>
         <source>Empty the recycle bin of this notebook</source>
-        <translation type="unfinished">このノートブックのごみ箱を空にする</translation>
+        <translation type="unfinished">このノートブックのゴミ箱を空にする</translation>
     </message>
     <message>
         <location filename="../vnotebookselector.cpp" line="469"/>
         <source>Are you sure to empty recycle bin of notebook &lt;span style=&quot;%1&quot;&gt;%2&lt;/span&gt;?</source>
-        <translation type="unfinished">ノートブック&lt;span style=&quot;%1&quot;&gt;%2&lt;/span&gt;のごみ箱を空にしますか?</translation>
+        <translation type="unfinished">ノートブック&lt;span style=&quot;%1&quot;&gt;%2&lt;/span&gt;のゴミ箱を空にしますか?</translation>
     </message>
     <message>
         <location filename="../vnotebookselector.cpp" line="473"/>
@@ -6586,12 +6586,12 @@ those images, so you need to clean up unused images manually.</source>
     <message>
         <location filename="../vnotebookselector.cpp" line="487"/>
         <source>Successfully emptied recycle bin of notebook &lt;span style=&quot;%1&quot;&gt;%2&lt;/span&gt;!</source>
-        <translation type="unfinished">ノートブック&lt;span style=&quot;%1&quot;&gt;%2&lt;/span&gt;のごみ箱を空にしました!</translation>
+        <translation type="unfinished">ノートブック&lt;span style=&quot;%1&quot;&gt;%2&lt;/span&gt;のゴミ箱を空にしました!</translation>
     </message>
     <message>
         <location filename="../vnotebookselector.cpp" line="492"/>
         <source>Fail to empty recycle bin of notebook &lt;span style=&quot;%1&quot;&gt;%2&lt;/span&gt;!</source>
-        <translation type="unfinished">ノートブック&lt;span style=&quot;%1&quot;&gt;%2&lt;/span&gt;のごみ箱を空にすることができません!</translation>
+        <translation type="unfinished">ノートブック&lt;span style=&quot;%1&quot;&gt;%2&lt;/span&gt;のゴミ箱を空にすることができません!</translation>
     </message>
     <message>
         <location filename="../vnotebookselector.cpp" line="513"/>
@@ -7427,7 +7427,7 @@ If absolute path is used, VNote will not manage those images.(empty to use globa
     <message>
         <location filename="../vsnippetlist.cpp" line="174"/>
         <source>Sort snippets manually</source>
-        <translation type="unfinished">スニペットを手動でソートする</translation>
+        <translation type="unfinished">スニペットを手動で整列する</translation>
     </message>
     <message>
         <location filename="../vsnippetlist.cpp" line="213"/>
@@ -7452,12 +7452,12 @@ If absolute path is used, VNote will not manage those images.(empty to use globa
     <message>
         <location filename="../vsnippetlist.cpp" line="252"/>
         <source>Sort Snippets</source>
-        <translation type="unfinished">スニペットをソート</translation>
+        <translation type="unfinished">スニペットを整列</translation>
     </message>
     <message>
         <location filename="../vsnippetlist.cpp" line="253"/>
         <source>Sort snippets in the configuration file.</source>
-        <translation type="unfinished">構成ファイル内のスニペットをソートします。</translation>
+        <translation type="unfinished">構成ファイル内のスニペットを整列します。</translation>
     </message>
     <message>
         <location filename="../vsnippetlist.cpp" line="259"/>
@@ -7467,7 +7467,7 @@ If absolute path is used, VNote will not manage those images.(empty to use globa
     <message>
         <location filename="../vsnippetlist.cpp" line="282"/>
         <source>Fail to sort snippets.</source>
-        <translation type="unfinished">スニペットのソートに失敗しました。</translation>
+        <translation type="unfinished">スニペットの整列に失敗しました。</translation>
     </message>
     <message>
         <location filename="../vsnippetlist.cpp" line="306"/>

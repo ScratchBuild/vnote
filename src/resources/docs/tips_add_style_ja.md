@@ -1,5 +1,5 @@
 # VNoteのスタイル
-VNoteでは、編集モードと読み込みモードの両方でカスタムスタイルをサポートしています。カスタムスタイルを作成する最良の方法は、既定のスタイルを[ここから](https://github.com/tamlok/vnote/tree/master/src/resources/themes)コピーし、関連ファイルを名前変更し、スタイルフォルダに配置して、それを好みに合わせて調整することです。
+VNoteでは、編集モードと読み込みモードの両方でカスタムスタイルをサポートしています。カスタムスタイルを作成する最良の方法は、既定のスタイルを[ここから](https://github.com/tamlok/vnote/tree/master/src/resources/themes)コピーし、関連ファイルの名前を変更し、スタイルフォルダに配置して、それらを好みに合わせて調整することです。
 
 新しいスタイルを適用するには、再起動が必要です。現在のタブを改めて開くと、新しいスタイルを適用できます。
 
@@ -16,4 +16,4 @@ VNoteでは、編集モードと読み込みモードの両方でカスタムス
 ### コードブロックのスタイル
 コードブロックスタイルは、拡張子が`.css`であるファイルです。既定では、VNoteの設定フォルダのサブフォルダ`スタイル/codeblock_styles`に配置されます。
 
-[Highlight.js](https://github.com/isagalaev/highlight.js)を訪問するお、より多くのスタイルを見ることができます。
+[Highlight.js](https://github.com/isagalaev/highlight.js)を訪問すると、より多くのスタイルを見ることができます。

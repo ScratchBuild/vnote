@@ -1,9 +1,9 @@
 # VNote
-[中文 Chinese](./README_zh.md) | [英語 English](./README.md)
+[中国語 Chinese](./README_zh.md) | [英語 English](./README.md)
 
 **VNote は、プログラマとMarkdownをよく理解するノート作成アプリケーションです。**
 
-詳細情報は、[**VNoteのホームページ**](https://tamlok.github.io/vnote)に訪問してください。
+詳細については、[**VNoteのホームページ**](https://tamlok.github.io/vnote)をご覧ください。
 
 ![VNote](screenshots/vnote.png)
 
@@ -32,13 +32,13 @@ scoop update vnote
 ### AppImage
 [![Build Status](https://travis-ci.org/tamlok/vnote.svg?branch=master)](https://travis-ci.org/tamlok/vnote)
 
-主要Linuxディストリビューションむけには、AppImageのVNoteスタンドアロン実行ファイルがあります。**Linuxのパッケージングと配布の支援を歓迎します!**
+主要Linuxディストリビューション向けには、AppImageのVNoteスタンドアロン実行ファイルがあります。**Linuxのパッケージングと配布の支援を歓迎します!**
 
 - [Githubリリース](https://github.com/tamlok/vnote/releases)
 - 開発中の最新ビルド: [![ダウンロード](https://api.bintray.com/packages/tamlok/vnote/vnote/images/download.svg)](https://bintray.com/tamlok/vnote/vnote/_latestVersion)
 
 ### openSUSE
-現在、OpenSUSE Tumbleweedの`vnote`は、OBS上の`home:openuse_zh`プロジェクトからインストールすることができます。次のコマンドを直接実行できます。
+現在、OpenSUSE Tumbleweedの`vnote`は、OBS上の`home:opensuse_zh`プロジェクトからインストールすることができます。次のコマンドを直接実行できます。
 
 ```shell
 sudo zypper ar https://download.opensuse.org/repositories/home:/opensuse_zh/openSUSE_Tumbleweed/ home:opensuse_zh
@@ -79,7 +79,7 @@ brew cask install vnote
 # 説明
 **VNote**は、Qtベースの無料のオープンソースのノート作成アプリケーションで、Markdownに焦点を当てています。VNoteは、特にプログラマーにとって快適な編集エクスペリエンスを提供するように設計されています。
 
-VNoteは、Markdownの単純なエディタ**ではありません**。ノート管理を提供することで、VNoteはマークダウンのノート作成をより簡単に、より楽しくすることができます。
+VNoteは、Markdownの単純なエディタ**ではありません**。ノート管理を提供することで、VNoteはMarkdownのノート作成をより簡単に、より楽しくすることができます。
 
 Qtを使用し、VNoteは、**Linux**, **Windows**そして、**macOS**で利用できます。
 
@@ -89,6 +89,8 @@ Qtを使用し、VNoteは、**Linux**, **Windows**そして、**macOS**で利用
 - [Github issues](https://github.com/tamlok/vnote/issues);
 - Email: `tamlokveer at gmail.com`;
 - [Slack](https://join.slack.com/t/vnote/shared_invite/enQtNDg2MzY0NDg3NzI4LTQ1Yzk1YjA5MjAyYTU0MjJkMTUxNmRiYWQ2YjlkOWU0ZGZlMTFlZTAxNzg0ZGUyNzI0ZGY2NDg4MmU1M2FkMDg);
+- WeChat Public Account: VNote笔记 (vnote_md);  
+![VNote WeChat](screenshots/vnote_md.jpg)
 
 # ハイライト
 - 強力な**全文検索**;
@@ -106,14 +108,14 @@ Qtを使用し、VNoteは、**Linux**, **Windows**そして、**macOS**で利用
 - HiDPIのサポート;
 - ノートの添付ファイル;
 - テーマとダーク・モード;
-- HTML、PDF、PDF(All In One)、イメージなど、拡張性と拡張性に優れたエクスポート
+- HTML、PDF、PDF(All In One)、画像など、リッチで拡張性に優れたエクスポート
 
 # 寄付
 VNoteの開発に、さまざまな方法で支援できます。
 
-- VNoteの開発に注目し、改善のためにフィードバックを送信する
-- VNoteを友達に広める。人気がひろまることは、開発者にとって大きなエネルギーになります。
-- VNoteの開発に参加し、VNoteを完全にするためにPullRequestを送信します。
+- VNoteの開発に注目し、改善のためにフィードバックを送る。
+- VNoteを友達に広める。人気が広まることは、開発者にとって大きなエネルギーになります。
+- VNoteの開発に参加し、VNoteをより良いものにするためにPull Requestを送る。
 - VNoteが本当に役に立ち、VNoteを助けたいと思ったら、VNoteへの寄付を本当に感謝します。
 
 **PayPal**: [PayPal.Me/vnotemd](https://www.paypal.me/vnotemd)
@@ -129,15 +131,15 @@ VNoteの開発に、さまざまな方法で支援できます。
 [VNoteヘ寄付されたユーザ](https://github.com/tamlok/vnote/wiki/Donate-List)に感謝いたします!
 
 # VNoteのわけ
-## Markdown編集とノート管理
-VNoteは、ノート管理機能のついた協力なMarkdownエディタ、あるいは快適なMarkdownサポートつきのノート作成アプリケーションを目指しています。もしMarkdownのファンで、勉強や仕事、人生のためにMarkdownのノートを書くのなら、VNoteはあなたにとって正しいツールです。
+## Markdownエディタとノート管理
+VNoteは、ノート管理機能のついた強力なMarkdownエディタ、あるいは快適なMarkdownサポートつきのノート作成アプリケーションを目指しています。もしMarkdownのファンで、勉強や仕事、人生のためにMarkdownのノートを書くのなら、VNoteはあなたにとって適切なツールです。
 
-## 快適なマークダウン体験
+## 快適なMarkdown体験
 ### Markdownについての洞察
 Markdownは、リッチテキストとは異なり、編集と読み取りの間にある**ギャップ**を持って生まれた、シンプルなマークアップ言語です。このギャップを扱うには、3つの方法があります。
 
 1. 一つの極端な例として、エディタの中には、Markdownを**プレーンテキスト**として扱うだけのものもある。ユーザーは、ごちゃごちゃした黒い文字で自分を失うことがあります。メモの情報を追跡するのは難しくなる。
-2. ほとんどのMarkdownエディターは、**編集とプレビューを同時に行うために、2つのパネルを使用します**。ユーザーはテキストの編集中に、楽しいタイプの設定とレイアウトを見ることができるので、より簡単になります。しかし、2つのパネルが画面全体を占め、ユーザは目を左右に動かすことになり、大きな混乱を招くことになりかねません。
+2. ほとんどのMarkdownエディタは、**編集とプレビューを同時に行うために、2つのパネルを使用します**。ユーザーはテキストの編集中に、楽しいタイプの設定とレイアウトを見ることができるので、より簡単になります。しかし、2つのパネルが画面全体を占め、ユーザは目を左右に動かすことになり、大きな混乱を招くことになりかねません。
 3. もう一つの極端な点として、編集の直後にMarkdown要素を変換するエディタもあり、Wordのリッチテキスト文書を編集するのと同じように、Markdownを編集することができます。
 
 ほとんどのエディタは、ギャップを処理するための2番目の方法を選んでいるので、Markdownをつかうときは、常にプレビューを考えていることになります。これは、Markdownの誤解かもしれません。シンプルなマーク言語として設計されたMarkdownは、編集時にテキストの情報を記録し、HTMLに変換された後に美しいタイプの設定を提供することを目的としています。
@@ -147,7 +149,7 @@ VNoteは、チューニングされた**構文ハイライト**とその他の�
 
 # 機能
 ## ノートブック・ベースのノート管理
-VNoteは、**ノートブック**を使用してノートを管理することができます。OneNoteと同様に、ノートブックはシステム上の任意の場所にホストすることができます。ノートブックは1つのアカウントを表すように設計されています。たとえば、ローカル・ファイルシステムで管理されているノートブックと、OwnCloudサーバ上に保存されている別のノートブックをもつことができます。これは、メモが異なるレベルのセキュリティを必要とする場合に、実際に役立ちます。
+VNoteは、**ノートブック**を使用してノートを管理することができます。OneNoteと同様に、ノートブックはシステム上の任意の場所に保存することができます。ノートブックは1つのアカウントを表すように設計されています。たとえば、ローカル・ファイルシステムで管理されているノートブックと、OwnCloudサーバ上に保存されている別のノートブックをもつことができます。これは、メモが異なるレベルのセキュリティを必要とする場合に、実際に役立ちます。
 
 ノートブックは、ファイルシステム内の自己完結型フォルダ(ノートブックの*Rootフォルダ*と呼ばれます)に対応しています。フォルダを別の場所(または別のコンピュータ)にコピーして、VNoteにインポートすることができます。
 
@@ -184,12 +186,12 @@ VNoteは、Vimでの`Ctrl+P`のように、**ユニバーサルエントリ**機
 VNoteでは、編集モードと閲覧モードの両方でユーザフレンドリなアウトラインビューアが提供されています。アウトライン・ビューアは、HTMLのセグメントではなく、応答するアイテム・ツリーです。
 
 ## 強力なショートカット
-VNoteは、<x/>Vim Mode**、**キャプテンモード**、<x/>、**ナビゲーションモード**など、編集を容易にする強力なショートカットをサポートしています。これにより、マウスを使用せずに作業を行うことができます。
+VNoteは、<x/>**Vimモード**、**キャプテンモード**、<x/>、**ナビゲーションモード**など、編集を容易にする強力なショートカットをサポートしています。これにより、マウスを使用せずに作業を行うことができます。
 
 詳細については、ヘルプメニューの[ショートカットヘルプ](src/resources/docs/shortcuts_en.md)を参照してください。
 
 ## 柔軟に調整可能
-VNoteでは、背景色、フォント、マークダウンなど、ほとんどすべてのものが調整可能です。VNoteは平文ファイルを使ってすべての構成を記録しますので、そのファイルをコピーすれば、別のコンピュータで新しいVNoteを初期化することができます。
+VNoteでは、背景色、フォント、Markdownなど、ほとんどすべてのものが調整可能です。VNoteは平文ファイルを使ってすべての構成を記録しますので、そのファイルをコピーすれば、別のコンピュータで新しいVNoteを初期化することができます。
 
 # 依存関係
 - [Qt 5.9](http://qt-project.org) (L-GPL v3)

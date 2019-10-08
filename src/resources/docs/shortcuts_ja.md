@@ -266,7 +266,7 @@ RemoveSplit=R
 - `P`
 クリップボードのHTMLをMarksownテキストとして貼り付けます。
 - `N`  
-View and edit current note's information.
+現在のノートの情報を表示および編集します。
 - `Shift+?` 
 ショートカットのドキュメントを表示します。
 
